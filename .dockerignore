@@ -1,0 +1,5 @@
+.git
+.github
+results
+*.filelist
+/data_server/target
