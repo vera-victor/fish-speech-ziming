@@ -19,7 +19,7 @@ min_wav_time = 10
 max_wav_time = 40
 
 # 待训练录音的保存路径
-media_path = '/root/heygem_data/voice/processed_audio'
+media_path = '/code/data'
 
 # 是否开启compile加速,30系列显卡使用有问题 建议4090开启
 is_compile = True
